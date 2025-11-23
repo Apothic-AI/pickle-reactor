@@ -146,14 +146,14 @@ def AboutPage(props: dict):
                 li({"class": "phase-complete"},
                     "✅ Phase 3: patch(), events, keyed children"
                 ),
-                li({"class": "phase-current"},
-                    "🔄 Phase 4: Routing, multiple pages (CURRENT)"
+                li({"class": "phase-complete"},
+                    "✅ Phase 4: Routing, multiple pages"
                 ),
-                li({"class": "phase-pending"},
-                    "⏳ Phase 5: Data loading, server actions"
+                li({"class": "phase-complete"},
+                    "✅ Phase 5: Data loading, server actions"
                 ),
-                li({"class": "phase-pending"},
-                    "⏳ Phase 6: CLI, Vite, hot reload"
+                li({"class": "phase-complete"},
+                    "✅ Phase 6: CLI, Vite, hot reload"
                 ),
             )
         ),
