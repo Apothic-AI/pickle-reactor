@@ -694,6 +694,11 @@ Configure via environment variables:
 - [ ] TypeScript definitions (via stubs)
 - [ ] Plugin system
 
+## TODO
+
+- [ ] Improve render thread performance
+- [ ] Investigate sending down constructs with cloudpickle
+
 ## Contributing
 
 This is an experimental framework developed in the Apothic monorepo.
