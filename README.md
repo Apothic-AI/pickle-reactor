@@ -10,15 +10,15 @@ Pickle-Reactor is an experimental Python web framework that brings Next.js-style
 
 ## Features
 
--  **Server-Side Rendering (SSR)** - Fast initial page loads with HTML from Python
--  **Virtual DOM** - Preact-style O(n) diffing algorithm for efficient updates
--  **React-style Hooks** - `use_state()` for component state management
--  **File-based Routing** - Pages automatically route based on file structure
--  **Server Actions** - Call server functions from client with type safety
--  **Data Loading** - Fetch data on server (SSR) or client (hydration)
--  **Interactive Components** - Python runs in browser via Pyodide WebAssembly
--  **Hot Reload** - Development server auto-restarts on file changes
--  **Production Ready** - Build system for deployment
+-  **Server-Side Rendering (SSR)** - Fast initial page loads with HTML from Python
+-  **Virtual DOM** - Preact-style O(n) diffing algorithm for efficient updates
+-  **React-style Hooks** - `use_state()` for component state management
+-  **File-based Routing** - Pages automatically route based on file structure
+-  **Server Actions** - Call server functions from client with type safety
+-  **Data Loading** - Fetch data on server (SSR) or client (hydration)
+-  **Interactive Components** - Python runs in browser via Pyodide WebAssembly
+-  **Hot Reload** - Development server auto-restarts on file changes
+-  **Production Ready** - Build system for deployment
 
 ## Quick Start
 
@@ -578,38 +578,38 @@ window.performance.getEntriesByType('navigation')[0]
 
 ```
 pickle-reactor/
-   server/              Server-side code
-      app.py          FastAPI application
-      ssr.py          Server-side rendering
-      actions.py      Server actions
-
-   client/              Client-side code (Pyodide)
-      runtime.py      Client runtime (mount, patch, rerender)
-      actions.py      Client-side action wrappers
-
-   shared/              Shared code (server + client)
-      vdom.py         Virtual DOM (VNode, h(), HTML helpers)
-      state.py        State management (use_state, ComponentInstance)
-
-   pages/               Page components (file-based routing)
-      index.py        Home page (/)
-      about.py        About page (/about)
-      todos.py        Todos page (/todos)
-
-   static/              Static assets
-      bootstrap.js    Pyodide bootstrap
-      *.py            Copied Python modules for Pyodide
-
-   tests/               Test suite
-      unit/           Pure Python tests
-      integration/    FastAPI integration tests
-      e2e/            Playwright E2E tests
-
-   src/pickle_reactor/  CLI package
-      __init__.py
-      cli.py          CLI commands
-
-   pyproject.toml       Project metadata
+ server/              Server-side code
+    app.py          FastAPI application
+    ssr.py          Server-side rendering
+    actions.py      Server actions
+
+ client/              Client-side code (Pyodide)
+    runtime.py      Client runtime (mount, patch, rerender)
+    actions.py      Client-side action wrappers
+
+ shared/              Shared code (server + client)
+    vdom.py         Virtual DOM (VNode, h(), HTML helpers)
+    state.py        State management (use_state, ComponentInstance)
+
+ pages/               Page components (file-based routing)
+    index.py        Home page (/)
+    about.py        About page (/about)
+    todos.py        Todos page (/todos)
+
+ static/              Static assets
+    bootstrap.js    Pyodide bootstrap
+    *.py            Copied Python modules for Pyodide
+
+ tests/               Test suite
+    unit/           Pure Python tests
+    integration/    FastAPI integration tests
+    e2e/            Playwright E2E tests
+
+ src/pickle_reactor/  CLI package
+    __init__.py
+    cli.py          CLI commands
+
+ pyproject.toml       Project metadata
 ```
 
 ## Deployment
@@ -622,11 +622,11 @@ python src/pickle_reactor/cli.py build --output dist
 
 # Output structure:
 dist/
-   server/
-   client/
-   shared/
-   pages/
-   static/
+ server/
+ client/
+ shared/
+ pages/
+ static/
 ```
 
 ### Deploying
@@ -675,7 +675,7 @@ Configure via environment variables:
 
 ## Roadmap
 
-### Phase 6: Complete 
+### Phase 6: Complete 
 
 - [x] CLI tool (dev, build, test, info)
 - [x] Development server with hot reload
