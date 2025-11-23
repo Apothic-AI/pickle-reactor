@@ -4,6 +4,8 @@
 
 Pickle-Reactor is an experimental Python web framework that brings Next.js-style development patterns to Python. Write your components in Python, render them on the server with SSR, and run them interactively in the browser using Pyodide (Python via WebAssembly).
 
+**Notice**: This was done as a fun experiment. That this idea may be cursed isn't lost on anyone.
+
 ## Features
 
 -  **Server-Side Rendering (SSR)** - Fast initial page loads with HTML from Python
@@ -789,7 +791,7 @@ See the [Testing](#testing) section for comprehensive test documentation.
 
 ## License
 
-MIT License - See LICENSE file for details
+Apache License 2.0 - See LICENSE file for details
 
 ## Acknowledgments
 

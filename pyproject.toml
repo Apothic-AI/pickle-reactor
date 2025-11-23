@@ -3,6 +3,7 @@ name = "pickle-reactor"
 version = "0.1.0"
 description = "Next.js-style Python framework using Pyodide and VDOM"
 readme = "README.md"
+license = "Apache-2.0"
 authors = [
     { name = "bitnom", email = "14287229+bitnom@users.noreply.github.com" }
 ]

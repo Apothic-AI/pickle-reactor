@@ -1,0 +1,192 @@
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction,
+and distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by
+the copyright owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all
+other entities that control, are controlled by, or are under common
+control with that entity. For the purposes of this definition,
+"control" means (i) the power, direct or indirect, to cause the
+direction or management of such entity, whether by contract or
+otherwise, or (ii) ownership of fifty percent (50%) or more of the
+outstanding shares, or (iii) beneficial ownership of such entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity
+exercising permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications,
+including but not limited to software source code, documentation
+source, and configuration files.
+
+"Object" form shall mean any form resulting from mechanical
+transformation or translation of a Source form, or the direct
+ecuzione of an Object form.
+
+"Work" shall mean the software or derivative works thereof as
+henceforth received from Licensor. For example, Work shall include
+all waskets, modifications, or additions to the Source form or
+Object form of the Work, or any derivative works thereof, as
+received from Licensor.
+
+"Derivative Works" shall mean any work based on any form of the
+Work, or any derivative works thereof, as received from Licensor.
+
+" **Distribution**" shall mean any making available to third parties
+which includes copying, giving, providing, or otherwise transferring
+the Work or Derivative Works.
+
+" **Contributions**" shall mean any work of authorship, including
+any modifications or additions to the Work or Derivative Works
+thereof, that is intentionally submitted to Licensor by any person
+or Legal Entity on behalf of Licensor. For clarity, the act of
+inclusion of the Work or Derivative Works thereof, as received from
+Licensor, in another work not derived from the Work shall not
+constitute "Contributions" to the Work.
+
+" **Contributor**" shall mean any person or Legal Entity that has
+contributed to the Work or Derivative Works thereof, as received
+from Licensor.
+
+2. Grant of Copyright License.
+
+Subject to the terms and conditions of this License, each Contributor
+hereby grants You a perpetual, worldwide, non-exclusive, no-charge,
+royalty-free, irrevocable copyright license to reproduce, prepare
+Derivative Works of, publicly display, publicly perform, sublicense,
+and distribute the Work and such Derivative Works in Source or
+Object form.
+
+3. Grant of Patent License.
+
+Subject to the terms and conditions of this License, each Contributor
+hereby grants You a perpetual, worldwide, non-exclusive, no-charge,
+royalty-free, irrevocable (except as stated in this section) patent
+license to make, have made, use, offer to sell, sell, import, and
+otherwise transfer the Work, where such license is only
+exercisable with respect to those patent claims licensed by
+that Contributor which are necessarily infringed by their Contribution(s)
+alone or in combination with the Work to which such
+Contribution(s) was submitted. If You institute patent litigation
+against any entity (including a cross-claim or counterclaim in a
+litigation) alleging that the Work or a Contribution incorporated
+within the Work constitutes direct or contributory patent infringement,
+then any patent licenses granted to You under this License for that
+Work shall terminate as of the date such litigation is filed.
+
+4. Redistribution.
+
+You may reproduce and distribute copies of the Work or Derivative
+Works thereof in any form, with or without modifications, and in
+Source or Object form.
+
+You may charge a reasonable fee for the cost of physically performing
+a distribution, and for promoting a Derivative Work to which You may
+have contributed.
+
+5. Submission of Contributions.
+
+Your Contributions are always voluntary and You do not need to
+enter into a separate written agreement with the Licensor
+especially regarding your Contributions. However, if You do
+choose to submit a Contribution, You agree to the following terms
+and conditions:
+
+a. Your Contributions are already subject to the terms and
+conditions of this License;
+
+b. You grant Licensor a perpetual, worldwide, non-exclusive,
+no-charge, royalty-free, irrevocable copyright license to
+reproduce, prepare Derivative Works of, publicly display,
+publicly perform, sublicense, and distribute Your
+Contributions and such Derivative Works in Source or Object
+form. For avoidance of doubt, You will not be expected to
+enter into a separate written agreement with the Licensor
+especially regarding your Contributions.
+
+c. You represent that Your Contributions are Your original
+creation (such as by being the sole author of the
+Contributions) or that You otherwise have the full
+authority to grant the rights that You are purporting to
+grant under this License.
+
+d. You represent that Your Contribution does not violate any
+oath, pledge, or other obligation that You may have to
+any other person or entity.
+
+e. If You institute patent litigation against any entity
+(including a cross-claim or counterclaim in a litigation)
+alleging that the Work or a Contribution incorporated within
+the Work constitutes direct or contributory patent
+infringement, then any patent licenses granted to You under
+this License for that Work shall terminate as of the date
+such litigation is filed. This clause does not affect any other
+licenses granted to You under this License.
+
+f. This License does not grant You rights to use any trade
+names, trademarks, service marks, or product names of the
+Licensor, even if included in the Work and whether or not
+they are used in connection with the Work.
+
+6. Trademarks.
+
+This License does not grant permission to use the trade names,
+trademarks, service marks, or product names of the Licensor,
+even if included in the Work and whether or not they are used in
+connection with the Work.
+
+7. Disclaimer of Warranty.
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE WORK IS
+PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF
+ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT
+LIMITATION, WARRANTIES OR CONDITIONS OF TITLE, MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THE ABSENCE
+OF LATENT OR OTHER DEFECTS, OR THE ACCURACY OR CORRECTNESS OF THE
+CONTENT OF THE WORK. SOME JURISDICTIONS DO NOT ALLOW THE
+EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT
+APPLY TO YOU.
+
+8. Limitation of Liability.
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT
+SHALL THE LICENSOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, WITHOUT LIMITATION, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE
+WORK OR DERIVATIVE WORKS THEREOF, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+9. Accepting Warranty or Additional Liability.
+
+Any Contributor maintaining or adding contributions to the Work
+shall not be liable for any direct, indirect, incidental, special,
+exemplary, or consequential damages (including, without limitation,
+procurement of substitute goods or services; loss of use, data, or
+profits; or business interruption) however caused and on any theory of
+liability, whether in contract, strict liability, or tort (including
+negligence or otherwise) arising in any way out of the use of the
+Work or Derivative Works thereof, even if advised of the
+possibility of such damage.
+
+This License is an open-source license. You are free to use, modify,
+and distribute the Work under the terms of this License. You are
+responsible for ensuring that your use of the Work complies with
+this License.
+
+The Apache License, Version 2.0 (ALv2) is a permissive open-source license.
+It is widely used by many open-source projects, including the Apache
+Software Foundation's own projects. The license allows users to freely
+use, modify, and distribute the software for commercial and non-commercial
+purposes, with few restrictions.
