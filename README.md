@@ -555,9 +555,9 @@ async def test_counter_interaction():
 
 Pickle-Reactor enforces performance budgets:
 
-- **Bundle Size**: d 2MB (app code, excluding Pyodide core)
-- **Hydration Time**: d 1s (after Pyodide loads)
-- **Memory Usage**: d 50MB (heap size during operation)
+- **Bundle Size**: ≤ 2MB (app code, excluding Pyodide core)
+- **Hydration Time**: ≤ 1s (after Pyodide loads)
+- **Memory Usage**: ≤ 50MB (heap size during operation)
 
 ### Optimization Tips
 
@@ -805,4 +805,5 @@ Apache License 2.0 - See LICENSE file for details
 
 ---
 
-**Built with d using Python and Pyodide WebAssembly**
+
+**Built using Python and Pyodide WebAssembly**
