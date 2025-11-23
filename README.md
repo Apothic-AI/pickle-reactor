@@ -1,5 +1,7 @@
 # Pickle-Reactor Framework
 
+![Pickle-Reactor](pickle-reactor.png)
+
 > **Next.js-style Python framework using Pyodide and Virtual DOM**
 
 Pickle-Reactor is an experimental Python web framework that brings Next.js-style development patterns to Python. Write your components in Python, render them on the server with SSR, and run them interactively in the browser using Pyodide (Python via WebAssembly).
