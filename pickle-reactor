@@ -1,0 +1,24 @@
+#!/usr/bin/env python3
+"""
+Pickle-Reactor CLI wrapper script
+
+This script makes the CLI easily accessible without needing
+to run `python src/pickle_reactor/cli.py` every time.
+
+Usage:
+  ./pickle-reactor dev
+  ./pickle-reactor build
+  ./pickle-reactor test
+  ./pickle-reactor info
+"""
+
+import sys
+import os
+
+# Add src directory to path
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
+
+from pickle_reactor.cli import main
+
+if __name__ == '__main__':
+    main()
